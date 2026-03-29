@@ -44,7 +44,7 @@
 ##  Техническая документация и запуск (для жюри)
 
 **Запуск проекта локально:**
-1. Клонируйте репозиторий: `git clone https://github.com/mashurovanargiznm-gif/Gove.AI-MVP.git`
+1. Клонируйте репозиторий: https://github.com/mashurovanargiznm-gif/Gove.AI-MVP.
 2. Установите зависимости (Python 3.9+ / Node.js): `pip install -r requirements.txt` и `npm install`
 3. Добавьте `.env` файл с ключами (Gemini API, Solana Private Key, Telegram Token).
 4. Запустите сервер: `uvicorn main:app --reload`
